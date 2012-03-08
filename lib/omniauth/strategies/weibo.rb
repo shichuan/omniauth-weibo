@@ -14,7 +14,7 @@ module OmniAuth
           :authorize_path => '/oauth/authorize',
           :realm => 'OmniAuth',
           :request_token_path => '/oauth/request_token',
-          :site => 'http://api.weibo.com',
+          :site => 'https://api.weibo.com',
         }
       end
 
